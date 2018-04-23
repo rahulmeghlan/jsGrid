@@ -1,0 +1,17 @@
+.triangle-parent {
+    display: inline-block;
+    /*border: 1px solid grey;*/
+    height: 20px;
+}
+
+.triangle {
+    width: 0;
+    height: 0;
+    margin: 0 auto;
+    background: transparent;
+    display: inline-block;
+    border-top: 10px solid #EE7C31;
+    border-left: 10px solid #F5D97B;
+    border-bottom: 10px solid #D94948;
+    border-right: 10px solid red;
+}
