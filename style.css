@@ -15,3 +15,11 @@
     border-bottom: 10px solid #D94948;
     border-right: 10px solid red;
 }
+
+table th, table td {
+    padding: 10px;
+}
+
+.no-padding{
+    padding: 0;
+}
